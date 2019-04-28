@@ -1,0 +1,12 @@
+{
+    "app":{
+        "cfengine":"adobe@2016.0.05+303689",
+        "restMappings":"/rest/*"
+    },
+    "web":{
+        "http":{
+            "port":"80"
+        },
+        "host":"restservices.fakerCo.local"
+    }
+}

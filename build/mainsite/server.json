@@ -1,0 +1,15 @@
+{
+  "web": {
+    "ssl": {
+      "enable": true,
+      "port": "443"
+    }
+  },
+  "http": {
+    "port": "80"
+  },
+  "host": "fakerCo.local",
+  "app": {
+    "cfengine": "adobe@2016.0.05+303689"
+  }
+}
