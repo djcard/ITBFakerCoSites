@@ -1,11 +1,11 @@
 {
-  "app":{
-    "cfengine":"adobe@2016"
-  },
-  "web":{
-    "host":"fakerCoWebApp.local",
-    "http":{
-      "port":"80"
+    "app":{
+        "cfengine":"adobe@2016"
+    },
+    "web":{
+        "host":"fakerCoWebApp.local",
+        "http":{
+            "port":"80"
+        }
     }
-  }
 }
