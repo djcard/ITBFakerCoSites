@@ -11,5 +11,7 @@
     },
     "app":{
         "cfengine":"adobe@2016.0.05+303689"
-    }
+    },
+    "cfconfigfile":"TestSiteSettingsLive.json",
+    "CFConfigPauseTasks":"true"
 }
