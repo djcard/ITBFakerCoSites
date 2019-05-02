@@ -2,7 +2,6 @@
     "name":"Faker Co Main Site",
     "version":"0.0.1",
     "author":"Dan Card",
-    "location":"",
     "homepage":"http://fakerco.com/",
     "documentation":"Demo Project for ",
     "repository":{
@@ -13,25 +12,13 @@
     "slug":"intotheboxfakerco",
     "shortDescription":"The FakerCo main site for Into the Box 2019.",
     "createPackageDirectory":false,
-    "description":"",
-    "instructions":"",
-    "changelog":"",
-    "type":"",
     "keywords":"Into The Box,CFML,Box,PHPStinks",
     "private":true,
-    "projectURL":"",
-    "license":[
-        {
-            "type":"",
-            "URL":""
-        }
-    ],
     "contributors":[],
     "dependencies":{
         "app":"http://dev.getSpringboard.com/cbpackages/app.zip",
         "bootstrap4":"http://dev.getSpringboard.com/cbpackages/bootstrap4.zip",
         "browser-report-master":"http://dev.getSpringboard.com/cbpackages/browser-report-master.zip",
-        "Codebase30":"http://dev.getSpringboard.com/cbpackages/Codebase30.zip",
         "demo":"http://dev.getSpringboard.com/cbpackages/demo.zip",
         "flot.curvedlines":"http://dev.getSpringboard.com/cbpackages/flot.curvedlines.zip",
         "flot":"http://dev.getSpringboard.com/cbpackages/flot.zip",
@@ -67,7 +54,6 @@
         "hubspotoffline":"bower_components/hubspotoffline/",
         "app":"bower_components/app/",
         "browser-report-master":"bower_components/browser-report-master/",
-        "Codebase30":"bower_components/Codebase30/",
         "demo":"bower_components/demo/",
         "flot.curvedlines":"bower_components/flot.curvedlines/",
         "flot":"bower_components/flot/",
